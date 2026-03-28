@@ -75,7 +75,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: annushramrg03@gmail.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 💼 LinkedIn:
 
 ---
 
