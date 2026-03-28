@@ -64,15 +64,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 Python Internship at HDLC Technologies  
-- 🏅 Graphics Design Internship at Teachnook  
-- 🏅 Published Research Papers (IRJMETS & IJCRT)  
-- 🏅 Infosys Springboard Certifications  
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
