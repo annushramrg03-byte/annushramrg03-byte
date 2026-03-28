@@ -66,15 +66,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annushramrg03-byte&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annushramrg03-byte&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: annushramrg03@gmail.com  
 - 💼 LinkedIn: your-linkedin-link  
 
 ---
