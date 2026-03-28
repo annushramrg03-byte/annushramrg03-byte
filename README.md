@@ -126,9 +126,6 @@ motto: "Automate everything. Scale anything. Break nothing."
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annushramrg03-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annushramrg03-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=annushramrg03-byte&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
 
